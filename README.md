@@ -1,12 +1,40 @@
-# React + Vite
+# 🎬 Movie Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Movie Finder App Banner](https://via.placeholder.com/1200x400.png?text=Movie+Finder+App+Banner)
 
-Currently, two official plugins are available:
+This modern app is built with **React Native + Expo + TypeScript** and **Tailwind CSS**, using **Appwrite** for backend management. Users can search for movies, discover popular titles, and rank them by popularity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🤖 Introduction
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The **Movie Finder App** provides a smooth and simple movie browsing experience. Built with **Expo**, **TypeScript**, and **Tailwind CSS**, it leverages **Appwrite** for backend services like database management and real-time data tracking.
+
+Users can:
+
+- Browse movies by popularity  
+- Search for specific movies  
+- View trending movies based on a popularity algorithm  
+
+The app's UI is designed according to **modern UI/UX principles** to offer a visually appealing and responsive experience.
+
+---
+
+## ⚙️ Technologies
+
+- **Expo**: Build cross-platform apps (iOS, Android, Web)  
+- **React Native**: Component-based UI development  
+- **TypeScript**: Strongly typed JavaScript for maintainable code  
+- **Tailwind CSS + NativeWind**: Fast, consistent styling for mobile  
+- **Appwrite**: Backend-as-a-Service for authentication, database, file storage, and real-time data  
+
+---
+
+## 🔋 Features
+
+- **Real-time movie data**: Dynamic display of movies  
+- **Home page**: Featured and popular movies  
+- **Search page**: Find your favorite movies  
+- **Popularity algorithm**: Track user searches to show trending movies  
+- **Attractive and responsive UI**: Modern and user-friendly design  
+- **Reusable components**: Easy and organized development
