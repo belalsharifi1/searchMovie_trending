@@ -1,6 +1,10 @@
 # 🎬 Movie Finder App
 
-![Movie Finder App Banner](/dist/readme/hero.png)
+<<<<<<< HEAD
+![Movie Finder App Banner](/hero.png)
+=======
+![Movie Finder App Banner](https://via.placeholder.com/1200x400.png?text=Movie+Finder+App+Banner)
+>>>>>>> 16cdbcef5b3cc5e0d00200e04528b9a0dfb727c9
 
 This modern app is built with **React Native + Expo + TypeScript** and **Tailwind CSS**, using **Appwrite** for backend management. Users can search for movies, discover popular titles, and rank them by popularity.
 
