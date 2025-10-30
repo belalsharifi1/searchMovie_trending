@@ -1,7 +1,7 @@
 # 🎬 Movie Finder App
 
 <<<<<<< HEAD
-![Movie Finder App Banner](/hero.png)
+![Movie Finder App Banner](/hero-redme.png)
 =======
 
 This modern app is built with **React Native + Expo + TypeScript** and **Tailwind CSS**, using **Appwrite** for backend management. Users can search for movies, discover popular titles, and rank them by popularity.

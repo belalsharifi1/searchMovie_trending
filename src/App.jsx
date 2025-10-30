@@ -76,7 +76,7 @@ const API_OPTIONS = {
       <div className="pattern">
         <div className="wrapper">
           <header>
-            <img src="/hero.png" alt="hero banner" />
+            <img src="/public/hero.png" alt="hero banner" />
             <h1>find your <span className="text-gradient">movies </span>and your happy</h1>
             <Search SearchTerm={SearchTerm} SetSearchTerm={SetSearchTerm} />
           </header>
