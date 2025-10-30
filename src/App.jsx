@@ -77,7 +77,7 @@ const API_OPTIONS = {
         <div className="wrapper">
           <header>
             <img src="/hero.png" alt="hero banner" />
-            <h1>find your <span className="text-gradient">movies </span>and your happy</h1>
+             <h1>Find <span className="text-gradient">Movies</span> You`ll Enjoy Without the Hassle</h1>
             <Search SearchTerm={SearchTerm} SetSearchTerm={SetSearchTerm} />
           </header>
           {TrendingMovies.length > 0 && (
