@@ -3,7 +3,7 @@ export default function Search({SearchTerm,SetSearchTerm}){
     return (
         <div className="search">
             <div>
-                <img src="/public/search.svg" alt="" />
+                <img src="/search.svg" alt="" />
                 <input
                     type="text"
                     placeholder="search your movies"
